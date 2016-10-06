@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="text">Hello World</string>
+    <string name="button">Исчезающая кнопка</string>
+</resources>
